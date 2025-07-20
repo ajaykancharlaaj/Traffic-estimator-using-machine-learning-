@@ -1,4 +1,4 @@
-# Traffic-estimator-using-machine-learning-
+# 🚦Traffic-estimator-using-machine-learning-
 is a machine learning-powered traffic volume estimator built using Flask for web deployment, Jupyter Notebook for experimentation, and Spyder for local development. It analyzes features like weather, time, and date to predict traffic volume, helping cities and developers gain real-time road usage insights.
 
 ---
